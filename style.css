@@ -119,6 +119,10 @@
   border: rgba(163, 163, 163, 0.082);
 }
 
+.Pictures button a{
+  text-decoration: none;
+}
+
 .Pictures button:hover{
   background-color: grey;
 }
