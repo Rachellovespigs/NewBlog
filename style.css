@@ -174,3 +174,18 @@ input[type=button], input[type=reset], input[type=submit] {
 .Searchbar{
   text-align: center;
 }
+
+.People1{
+  display: flex;
+}
+
+.BL img{
+  border-radius: 100%;
+  width: 50px;
+  height: 50px;
+  background: url(B.jpg);
+  background-size: cover;
+  padding: 5px;
+  margin: 10px;
+  border: 4px dotted black;
+}
