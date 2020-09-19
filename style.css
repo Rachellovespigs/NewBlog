@@ -210,3 +210,9 @@ input[type=button], input[type=reset], input[type=submit] {
   width: 100%;
   font-size: 18px;
 }
+
+@media(max-width:600px){
+nav ul{
+  text-align: center;
+}
+}
